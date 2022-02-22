@@ -1,0 +1,13 @@
+ Volume in drive P is PRACTICAL
+ Volume Serial Number is 6290-2373
+
+ Directory of P:\git\B
+
+22-02-2022  17:58    <DIR>          .
+22-02-2022  17:58    <DIR>          ..
+22-02-2022  17:49                 0 abc.txt
+22-02-2022  17:49                13 abj.txt
+22-02-2022  17:58                 0 ft.txt
+22-02-2022  17:50               408 p.txt
+               4 File(s)            421 bytes
+               2 Dir(s)  51,002,310,656 bytes free
